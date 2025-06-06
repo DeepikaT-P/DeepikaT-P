@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi,I'm Deepika T P
 🎓 I'm an MCA graduate from NIE College, Mysore (2024).<br><br>💻 I'm currently learning Django and improving my backend development skills.<br><br>🛠️ I'm currently working on projects using Python, Java, SQL, and HTML/CSS.<br><br>📄 Check out my resume<br><br>📂 All of my projects are available here on GitHub.<br><br>💡 Ask me about Python, Java, SQL, Machine Learning, and Web Development.<br><br>📬 Reach out to me at deepikatp2002@gmail.com
 
 
